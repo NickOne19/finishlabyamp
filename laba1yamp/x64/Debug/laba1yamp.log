@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\OWNER\source\repos\laba1yamp\My_List.h(56,1): warning C4267: return: преобразование из "size_t" в "TInfo"; возможна потеря данных
+C:\Users\OWNER\source\repos\laba1yamp\Source.cpp(56,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba1yamp.vcxproj -> C:\Users\OWNER\source\repos\laba1yamp\x64\Debug\laba1yamp.exe
